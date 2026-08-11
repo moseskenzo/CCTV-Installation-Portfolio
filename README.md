@@ -1,7 +1,7 @@
 # CCTV-INSTALLATION-PORTFOLIO
 **HANDS‑ON CCTV & ALARM SYSTEM INSTALLATION PROJECTS** 
 
-### Project: Home CCTV Installation and Troubleshooting
+### PROJECT: Home CCTV Installation and Troubleshooting
 
 **Tools used:** Hikvision DVR, CCTV cameras (indoor & outdoor), HDMI connection to TV.  
 
@@ -25,7 +25,11 @@
 
 
 
-### Project:  Installing and configuring surveillance cameras on site.  
+
+
+
+
+### PROJECT:  Installing and configuring surveillance cameras on site.  
 
 **Tools used:** Laptop, 4G CCTV camera, mounting equipment, sim card with internet.  
 
