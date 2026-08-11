@@ -4,7 +4,6 @@
 ### Project: Home CCTV Installation and Troubleshooting
 **Tools used:** Hikvision DVR, CCTV cameras (indoor & outdoor), HDMI connection to TV.  
 **Outcome:** Successfully configured a four-camera monitoring system, displaying live feeds from stairway, parking, and courtyard zones simultaneously.
-
 **Skills Highlighted:** System configuration, video feed monitoring, IT troubleshooting
 
 **Photo:**
